@@ -7,7 +7,7 @@ we have compiled PI-Net, a curated dataset of 358 high-resolution pressure injur
 
 ## Download papers and datasets
 PI-Net Paper **Link to be added**<br>
-PI-Net Download the dataset **Link to be added**<br>
+PI-Net Download the dataset https://github.com/clare304/PI-Net <br>
 
 ## Dataset validation
 ### 1. train model
