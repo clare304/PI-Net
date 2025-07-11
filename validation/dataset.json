@@ -1,0 +1,292 @@
+{
+    "labels": {
+        "background": 0,
+        "StageⅠ Pressure Injury": 1,
+        "Stage Ⅱ Pressure Injury": 2,
+        "Stage Ⅲ Pressure Injury": 3,
+        "Stage Ⅳ Pressure Injury": 4,
+        "Non-stageable pressure injury": 5,
+        "Suspected deep tissue pressure injury": 6
+    },
+    "channel_names": {
+        "0": "R",
+        "1": "G",
+        "2": "B"
+    },
+    "numTraining": 68,
+    "file_ending": ".png",
+    "training": [
+        {
+            "image": "./imagesTr/1-102_0000.png",
+            "label": "./labelsTr/1-102.png"
+        },
+        {
+            "image": "./imagesTr/1-103_0000.png",
+            "label": "./labelsTr/1-103.png"
+        },
+        {
+            "image": "./imagesTr/1-14_0000.png",
+            "label": "./labelsTr/1-14.png"
+        },
+        {
+            "image": "./imagesTr/1-18_0000.png",
+            "label": "./labelsTr/1-18.png"
+        },
+        {
+            "image": "./imagesTr/1-28_0000.png",
+            "label": "./labelsTr/1-28.png"
+        },
+        {
+            "image": "./imagesTr/1-29_0000.png",
+            "label": "./labelsTr/1-29.png"
+        },
+        {
+            "image": "./imagesTr/1-36_0000.png",
+            "label": "./labelsTr/1-36.png"
+        },
+        {
+            "image": "./imagesTr/1-42_0000.png",
+            "label": "./labelsTr/1-42.png"
+        },
+        {
+            "image": "./imagesTr/1-51_0000.png",
+            "label": "./labelsTr/1-51.png"
+        },
+        {
+            "image": "./imagesTr/1-57_0000.png",
+            "label": "./labelsTr/1-57.png"
+        },
+        {
+            "image": "./imagesTr/1-63_0000.png",
+            "label": "./labelsTr/1-63.png"
+        },
+        {
+            "image": "./imagesTr/1-68_0000.png",
+            "label": "./labelsTr/1-68.png"
+        },
+        {
+            "image": "./imagesTr/1-69_0000.png",
+            "label": "./labelsTr/1-69.png"
+        },
+        {
+            "image": "./imagesTr/1-73_0000.png",
+            "label": "./labelsTr/1-73.png"
+        },
+        {
+            "image": "./imagesTr/1-83_0000.png",
+            "label": "./labelsTr/1-83.png"
+        },
+        {
+            "image": "./imagesTr/1-99_0000.png",
+            "label": "./labelsTr/1-99.png"
+        },
+        {
+            "image": "./imagesTr/2-11_0000.png",
+            "label": "./labelsTr/2-11.png"
+        },
+        {
+            "image": "./imagesTr/2-12 (2)_0000.png",
+            "label": "./labelsTr/2-12 (2).png"
+        },
+        {
+            "image": "./imagesTr/2-15_0000.png",
+            "label": "./labelsTr/2-15.png"
+        },
+        {
+            "image": "./imagesTr/2-1_0000.png",
+            "label": "./labelsTr/2-1.png"
+        },
+        {
+            "image": "./imagesTr/2-3 (3)_0000.png",
+            "label": "./labelsTr/2-3 (3).png"
+        },
+        {
+            "image": "./imagesTr/2-5 (3)_0000.png",
+            "label": "./labelsTr/2-5 (3).png"
+        },
+        {
+            "image": "./imagesTr/2-51_0000.png",
+            "label": "./labelsTr/2-51.png"
+        },
+        {
+            "image": "./imagesTr/2-70_0000.png",
+            "label": "./labelsTr/2-70.png"
+        },
+        {
+            "image": "./imagesTr/2-78_0000.png",
+            "label": "./labelsTr/2-78.png"
+        },
+        {
+            "image": "./imagesTr/2-8_0000.png",
+            "label": "./labelsTr/2-8.png"
+        },
+        {
+            "image": "./imagesTr/3-11_0000.png",
+            "label": "./labelsTr/3-11.png"
+        },
+        {
+            "image": "./imagesTr/3-15_0000.png",
+            "label": "./labelsTr/3-15.png"
+        },
+        {
+            "image": "./imagesTr/3-22_0000.png",
+            "label": "./labelsTr/3-22.png"
+        },
+        {
+            "image": "./imagesTr/3-29_0000.png",
+            "label": "./labelsTr/3-29.png"
+        },
+        {
+            "image": "./imagesTr/3-34_0000.png",
+            "label": "./labelsTr/3-34.png"
+        },
+        {
+            "image": "./imagesTr/3-37_0000.png",
+            "label": "./labelsTr/3-37.png"
+        },
+        {
+            "image": "./imagesTr/3-39_0000.png",
+            "label": "./labelsTr/3-39.png"
+        },
+        {
+            "image": "./imagesTr/3-3_0000.png",
+            "label": "./labelsTr/3-3.png"
+        },
+        {
+            "image": "./imagesTr/3-41_0000.png",
+            "label": "./labelsTr/3-41.png"
+        },
+        {
+            "image": "./imagesTr/3-44_0000.png",
+            "label": "./labelsTr/3-44.png"
+        },
+        {
+            "image": "./imagesTr/3-7 (2)_0000.png",
+            "label": "./labelsTr/3-7 (2).png"
+        },
+        {
+            "image": "./imagesTr/3-7_0000.png",
+            "label": "./labelsTr/3-7.png"
+        },
+        {
+            "image": "./imagesTr/4-18_0000.png",
+            "label": "./labelsTr/4-18.png"
+        },
+        {
+            "image": "./imagesTr/4-19_0000.png",
+            "label": "./labelsTr/4-19.png"
+        },
+        {
+            "image": "./imagesTr/4-20_0000.png",
+            "label": "./labelsTr/4-20.png"
+        },
+        {
+            "image": "./imagesTr/4-25_0000.png",
+            "label": "./labelsTr/4-25.png"
+        },
+        {
+            "image": "./imagesTr/NO (10)_0000.png",
+            "label": "./labelsTr/NO (10).png"
+        },
+        {
+            "image": "./imagesTr/NO (15)_0000.png",
+            "label": "./labelsTr/NO (15).png"
+        },
+        {
+            "image": "./imagesTr/NO (31)_0000.png",
+            "label": "./labelsTr/NO (31).png"
+        },
+        {
+            "image": "./imagesTr/NO (37)_0000.png",
+            "label": "./labelsTr/NO (37).png"
+        },
+        {
+            "image": "./imagesTr/NO (38)_0000.png",
+            "label": "./labelsTr/NO (38).png"
+        },
+        {
+            "image": "./imagesTr/NO (40)_0000.png",
+            "label": "./labelsTr/NO (40).png"
+        },
+        {
+            "image": "./imagesTr/NO (43)_0000.png",
+            "label": "./labelsTr/NO (43).png"
+        },
+        {
+            "image": "./imagesTr/NO (45)_0000.png",
+            "label": "./labelsTr/NO (45).png"
+        },
+        {
+            "image": "./imagesTr/NO (49)_0000.png",
+            "label": "./labelsTr/NO (49).png"
+        },
+        {
+            "image": "./imagesTr/NO (5)_0000.png",
+            "label": "./labelsTr/NO (5).png"
+        },
+        {
+            "image": "./imagesTr/NO (61)_0000.png",
+            "label": "./labelsTr/NO (61).png"
+        },
+        {
+            "image": "./imagesTr/NO (8)_0000.png",
+            "label": "./labelsTr/NO (8).png"
+        },
+        {
+            "image": "./imagesTr/NO (9)_0000.png",
+            "label": "./labelsTr/NO (9).png"
+        },
+        {
+            "image": "./imagesTr/S10_0000.png",
+            "label": "./labelsTr/S10.png"
+        },
+        {
+            "image": "./imagesTr/S12_0000.png",
+            "label": "./labelsTr/S12.png"
+        },
+        {
+            "image": "./imagesTr/S18_0000.png",
+            "label": "./labelsTr/S18.png"
+        },
+        {
+            "image": "./imagesTr/S19_0000.png",
+            "label": "./labelsTr/S19.png"
+        },
+        {
+            "image": "./imagesTr/S29_0000.png",
+            "label": "./labelsTr/S29.png"
+        },
+        {
+            "image": "./imagesTr/S41_0000.png",
+            "label": "./labelsTr/S41.png"
+        },
+        {
+            "image": "./imagesTr/S45_0000.png",
+            "label": "./labelsTr/S45.png"
+        },
+        {
+            "image": "./imagesTr/S4_0000.png",
+            "label": "./labelsTr/S4.png"
+        },
+        {
+            "image": "./imagesTr/S50_0000.png",
+            "label": "./labelsTr/S50.png"
+        },
+        {
+            "image": "./imagesTr/S53_0000.png",
+            "label": "./labelsTr/S53.png"
+        },
+        {
+            "image": "./imagesTr/S62_0000.png",
+            "label": "./labelsTr/S62.png"
+        },
+        {
+            "image": "./imagesTr/S80_0000.png",
+            "label": "./labelsTr/S80.png"
+        },
+        {
+            "image": "./imagesTr/S8_0000.png",
+            "label": "./labelsTr/S8.png"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "labels": {
+        "background": 0,
+        "StageⅠ Pressure Injury": 1,
+        "Stage Ⅱ Pressure Injury": 2,
+        "Stage Ⅲ Pressure Injury": 3,
+        "Stage Ⅳ Pressure Injury": 4,
+        "Non-stageable pressure injury": 5,
+        "Suspected deep tissue pressure injury": 6
+    },
+    "channel_names": {
+        "0": "R",
+        "1": "G",
+        "2": "B"
+    },
+    "numTraining": 19,
+    "file_ending": ".png",
+    "training": [
+        {
+            "image": "./imagesTr/1-101_0000.png",
+            "label": "./labelsTr/1-101.png"
+        },
+        {
+            "image": "./imagesTr/1-43_0000.png",
+            "label": "./labelsTr/1-43.png"
+        },
+        {
+            "image": "./imagesTr/1-56_0000.png",
+            "label": "./labelsTr/1-56.png"
+        },
+        {
+            "image": "./imagesTr/2-29_0000.png",
+            "label": "./labelsTr/2-29.png"
+        },
+        {
+            "image": "./imagesTr/2-31_0000.png",
+            "label": "./labelsTr/2-31.png"
+        },
+        {
+            "image": "./imagesTr/2-9 (2)_0000.png",
+            "label": "./labelsTr/2-9 (2).png"
+        },
+        {
+            "image": "./imagesTr/3-16_0000.png",
+            "label": "./labelsTr/3-16.png"
+        },
+        {
+            "image": "./imagesTr/3-19_0000.png",
+            "label": "./labelsTr/3-19.png"
+        },
+        {
+            "image": "./imagesTr/4-7_0000.png",
+            "label": "./labelsTr/4-7.png"
+        },
+        {
+            "image": "./imagesTr/4-9_0000.png",
+            "label": "./labelsTr/4-9.png"
+        },
+        {
+            "image": "./imagesTr/JPG_0000.png",
+            "label": "./labelsTr/JPG.png"
+        },
+        {
+            "image": "./imagesTr/NO (30)_0000.png",
+            "label": "./labelsTr/NO (30).png"
+        },
+        {
+            "image": "./imagesTr/NO (4)_0000.png",
+            "label": "./labelsTr/NO (4).png"
+        },
+        {
+            "image": "./imagesTr/NO (59)_0000.png",
+            "label": "./labelsTr/NO (59).png"
+        },
+        {
+            "image": "./imagesTr/NO23_0000.png",
+            "label": "./labelsTr/NO23.png"
+        },
+        {
+            "image": "./imagesTr/S20_0000.png",
+            "label": "./labelsTr/S20.png"
+        },
+        {
+            "image": "./imagesTr/S3_0000.png",
+            "label": "./labelsTr/S3.png"
+        },
+        {
+            "image": "./imagesTr/S6_0000.png",
+            "label": "./labelsTr/S6.png"
+        },
+        {
+            "image": "./imagesTr/S78_0000.png",
+            "label": "./labelsTr/S78.png"
+        }
+    ]
+}
