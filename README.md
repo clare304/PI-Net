@@ -6,7 +6,7 @@ The official repository of **"A dataset of 1,343 expertly curated images of clin
 PI-Net contains 1,343 expertly curated images, including 358 high-resolution photographs collected from six hospitals and 985 obtained from public repositories. These images cover ten anatomical locations and all clinically recognized stages, and each one has been annotated with pixel-level segmentation masks and stage labels by certified wound care specialists. By providing detailed, expert-verified annotations across the full clinical spectrum, this dataset is designed to support reproducible research in pressure injury recognition and to facilitate the clinical translation of AI-assisted wound assessment.
 
 PI-Net Paper **Link to be added**<br>
-PI-Net Download the dataset **[Link to be added](https://github.com/clare304/PI-Net.git)**<br>
+PI-Net Download the dataset (https://github.com/clare304/PI-Net.git)
 
 ## Dataset validation
 ### 1. train model
