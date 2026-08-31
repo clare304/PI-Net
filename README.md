@@ -1,6 +1,6 @@
 <h1 align="center"> PI-Net </h1>
 
-The official repository of **"PI-Net: A multi-site dataset for pixel-level segmentation and staging of pressure injuries."**
+The official repository of **"PI-Net: An Open Multi-Source Dataset and Benchmark for Pressure Injury Segmentation and NPIAP Staging."**
 
 ## Dataset Introduction
 The dataset comprises two distinct subsets derived through different acquisition routes. 
